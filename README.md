@@ -1,4 +1,4 @@
-# Shiva's 2nd Planet 🚀
+# Shiva's Planet 🚀
 
 <img src="https://komarev.com/ghpvc/?username=Shiva1023&style=flat-square&color=blue" alt=""/>
 
