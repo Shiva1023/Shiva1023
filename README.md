@@ -1,39 +1,60 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/j2t6xYzbmXLYIqseXq/giphy.gif" width="100"/>
-  
-  <div id="badges">
-  <a href="www.linkedin.com/in/shiva-sareddy">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge">
-  </a>
-  <a href="http://www.youtube.com/@shiva.sareddy">
-    <img src="https://img.shields.io/badge/Youtube-red?style=flat-square&logo=Youtube&logoColor=white" alt="Youtube badge">
-  </a>
-  <a href="https://www.instagram.com/shiva.sareddy">
-    <img src="https://img.shields.io/badge/Instagram-%23d62976?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram badge">
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=Shiva1023&style=flat-square&color=blue" alt="">
-  <h1>
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+# Shiva's 2nd Planet 🚀
 
-<div align="center">
-  <img
-    src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"
-    width="400"
-    height="400"
-  />
-</div>
+<img src="https://komarev.com/ghpvc/?username=Shiva1023&style=flat-square&color=blue" alt=""/>
 
+## Hello Aliens!  👋
+
+Hey There, Welcome To Github.. <br/>
+I am **Shiva Sareddy**, a Front-End Coder From India. 
+
+---
+## About Me 🧑‍💻
+
+Here, I am Shiva Sareddy a Passionate Front-End Web Developer From India. I am Currently Pursuing my Bachelor's Degree at BEST Innovation University, Anantapur, India.
 
 ---
 
-### :man_technologist: About Me :
-🖥️ I am a Front End Developer From India
- - I am Currently Enrolled in CS50 Web Programming with Python and JavaScript on **edX**
- - I am B.Tech Graduate
+## Languages and Tools 🛠️
+
+**Front-End Web Skills:** HTML5, CSS, JS, Bootstrap
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="30px" />
+
+
+**Back-End Web Skills:** Django
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="30px" />
+
+**Programming Skills:** Python, C++
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="30px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30px" />
+
+**Data Bases:** SQL
+
+<img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" height="30">
+
+**Tools:** Git, Github
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30px" />
+
+--- 
+
+## My Stats 🔥
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shiva1023&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Connect If Intrested 🌐
+
+<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100px" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" width="100px" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100px" /></a>
+<a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100px" /></a>
+
 <!--
 **Shiva1023/Shiva1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
