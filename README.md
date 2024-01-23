@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hvbzlvd291ZXBqaG5wems5Zmw2em5iM2g0NnczZXM2cDExNXR0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/j2t6xYzbmXLYIqseXq/giphy.gif" width="100"/>
+  
   <div id="badges">
   <a href="www.linkedin.com/in/shiva-sareddy">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge">
@@ -18,8 +19,21 @@
 </h1>
 </div>
 
+<div align="center">
+  <img
+    src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"
+    width="400"
+    height="400"
+  />
+</div>
 
 
+---
+
+### :man_technologist: About Me :
+🖥️ I am a Front End Developer From India
+ - I am Currently Enrolled in CS50 Web Programming with Python and JavaScript on **edX**
+ - I am B.Tech Graduate
 <!--
 **Shiva1023/Shiva1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
