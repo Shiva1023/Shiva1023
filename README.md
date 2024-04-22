@@ -1,4 +1,4 @@
-# Shiva's Planet 🚀
+<!--# Shiva's Planet 🚀
 
 <img src="https://komarev.com/ghpvc/?username=Shiva1023&style=flat-square&color=blue" alt=""/>
 
@@ -54,7 +54,7 @@ Here, I am Shiva Sareddy a Passionate Front-End Web Developer From India. I am C
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100px" /></a>
 <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100px" /></a>
-
+-->
 <!--
 **Shiva1023/Shiva1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,3 +69,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hey There, Welcome to My Coding Haven!
+
+I'm [Your Name], a Python enthusiast on a mission to revolutionize the web! 🚀 In my digital workshop, you'll find an amalgamation of Python prowess, web wizardry, and a sprinkle of open-source magic. So, buckle up and let's embark on this coding odyssey together! 🌟
+
+### 📊 Quick Stats
+- 💻 **Pythonista Extraordinaire**
+- 🌐 **Web Sorcerer**
+- 📦 **Open Source Aficionado**
+- 📊 **Data Science Explorer**
+
+### 🛠️ Tech Toolbox
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Django, Flask, React
+- **Databases:** PostgreSQL, MongoDB, SQLite
+- **Tools:** Git, Docker, VS Code
+
+### 📈 GitHub Metrics
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 🚀 Featured Projects
+- [Project 1](link): Brief description.
+- [Project 2](link): Brief description.
+- [Project 3](link): Brief description.
+
+### 🤝 Let's Connect & Collaborate!
+- [LinkedIn](linkedin.com/yourprofile)
+- [Twitter](twitter.com/yourhandle)
+- [Portfolio Website](yourportfolio.com)
+
+Feel free to star ⭐️ any repositories you find captivating or helpful! Thanks for dropping by, and let's craft some code magic together! ✨
