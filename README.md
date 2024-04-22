@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hey There, Welcome to My Coding Haven!
 
-I'm [Your Name], a Python enthusiast on a mission to revolutionize the web! 🚀 In my digital workshop, you'll find an amalgamation of Python prowess, web wizardry, and a sprinkle of open-source magic. So, buckle up and let's embark on this coding odyssey together! 🌟
+I'm **Shiva Sareddy**, a Python enthusiast on a mission to revolutionize the web! 🚀 In my digital workspace, you'll find an amalgamation of Python prowess, web wizardry, and a sprinkle of open-source magic. So, buckle up and let's embark on this coding odyssey together! 🌟
 
 ### 📊 Quick Stats
 - 💻 **Pythonista Extraordinaire**
@@ -80,13 +80,21 @@ I'm [Your Name], a Python enthusiast on a mission to revolutionize the web! 🚀
 - 📊 **Data Science Explorer**
 
 ### 🛠️ Tech Toolbox
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Flask, React
-- **Databases:** PostgreSQL, MongoDB, SQLite
-- **Tools:** Git, Docker, VS Code
+- **Languages:**
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="30px">     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg" width="30px">     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" height="30">     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="30">     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" width="30px">
+- **Frameworks:**
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain-wordmark.svg" width="30px">     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" width="30px">
+- **Databases:**
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-plain-wordmark.svg" width="30px">     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-plain-wordmark.svg" width="30px">
+- **Tools:**
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" width="30px">     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" width="30px">
 
 ### 📈 GitHub Metrics
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Shiva1023 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva1023&show_icons=true&theme=radical)
 
 ### 🚀 Featured Projects
 - [Project 1](link): Brief description.
@@ -94,8 +102,8 @@ I'm [Your Name], a Python enthusiast on a mission to revolutionize the web! 🚀
 - [Project 3](link): Brief description.
 
 ### 🤝 Let's Connect & Collaborate!
-- [LinkedIn](linkedin.com/yourprofile)
-- [Twitter](twitter.com/yourhandle)
+- [LinkedIn](linkedin.com/shiva-sareddy)
+- [Youtube](youtube.com/@shiva.sareddy)
 - [Portfolio Website](yourportfolio.com)
 
 Feel free to star ⭐️ any repositories you find captivating or helpful! Thanks for dropping by, and let's craft some code magic together! ✨
