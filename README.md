@@ -68,8 +68,8 @@ I'm **Shiva Sareddy**, a Python enthusiast on a mission to revolutionize the web
 ### 🤝 Let's Connect & Collaborate!&nbsp;&nbsp;
 
    <a href="https://www.youtube.com/@shiva.sareddy"><img style="margin-right: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/youtube.svg" height="30"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/Shiva.sareddy"><img style="margin-right: 10px;" src="" height="30"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shiva-sareddy"><img style="margin-right: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/instagram.svgd1b6be82d06e1/images/svg/linkedin.svg" height="30"></a>
+<a href="https://www.instagram.com/Shiva.sareddy"><img style="margin-right: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/instagram.svg" height="30"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shiva-sareddy"><img style="margin-right: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/linkedin.svg" height="30"></a>
 
 
 Feel free to star ⭐️ any repositories you find captivating or helpful! Thanks for dropping by, and let's craft some code magic together! ✨
