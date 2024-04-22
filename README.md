@@ -1,11 +1,6 @@
-<!--# 👋 Hey There, Welcome to My Coding Haven!
+# 👋 Hey There, Welcome to My Coding Haven!
 
-I'm **Shiva Sareddy**, a Python enthusiast on a mission to revolutionize the web! 🚀 In my digital workspace, you'll find an amalgamation of Python prowess, web wizardry, and a sprinkle of open-source magic. So, buckle up and let's embark on this coding odyssey together! 🌟-->
-
-<div align="center" style="background-color: #0d1117; color: white; padding: 20px; border-radius: 10px;">
-  <h1>👋 Hey There, Welcome to My Coding Haven!</h1>
-  <p>I'm <strong>Shiva Sareddy</strong>, a Python enthusiast on a mission to revolutionize the web! 🚀 In my digital workspace, you'll find an amalgamation of Python prowess, web wizardry, and a sprinkle of open-source magic. So, buckle up and let's embark on this coding odyssey together! 🌟</p>
-</div>
+I'm **Shiva Sareddy**, a Python enthusiast on a mission to revolutionize the web! 🚀 In my digital workspace, you'll find an amalgamation of Python prowess, web wizardry, and a sprinkle of open-source magic. So, buckle up and let's embark on this coding odyssey together! 🌟
 
 ### 📊 Quick Stats
 - 💻 **Pythonista Extraordinaire**
@@ -70,14 +65,11 @@ I'm **Shiva Sareddy**, a Python enthusiast on a mission to revolutionize the web
 
 
 
-### 🤝 Let's Connect & Collaborate!&nbsp;&nbsp;&nbsp;&nbsp;
+### 🤝 Let's Connect & Collaborate!&nbsp;&nbsp;
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/shiva-sareddy)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shiva.sareddy)
-- [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shiva_sareddy)
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shiva.sareddy)
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shivasareddy)
+   <a href="https://www.youtube.com/@shiva.sareddy"><img style="margin-right: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/youtube.svg" height="30"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/Shiva.sareddy"><img style="margin-right: 10px;" src="" height="30"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shiva-sareddy"><img style="margin-right: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/instagram.svgd1b6be82d06e1/images/svg/linkedin.svg" height="30"></a>
 
 
 Feel free to star ⭐️ any repositories you find captivating or helpful! Thanks for dropping by, and let's craft some code magic together! ✨
