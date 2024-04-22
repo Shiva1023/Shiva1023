@@ -43,9 +43,9 @@ I'm **Shiva Sareddy**, a Python enthusiast on a mission to revolutionize the web
 
 ### 🛠️ Tech Toolbox
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30px">&nbsp;&nbsp;
+<div style="display: flex; justify-content: center; align-items: center; margin: 6px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="32px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" height="30" style="margin-bottom: 5px;">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" height="30" style="margin-bottom: 5px;">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30px">&nbsp;&nbsp;
@@ -61,17 +61,18 @@ I'm **Shiva Sareddy**, a Python enthusiast on a mission to revolutionize the web
 ---
 
 ### 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva1023&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva1023&hide_progress=false&theme=radical&hide_border=true&border_radius=14)
+
 
 
 
 ### 📈 GitHub Metrics
 
-[![Shiva1023 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva1023&show_icons=true&theme=radical)](https://github.com/Shiva1023)
+[![Shiva1023 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva1023&show_icons=true&theme=radical&border_radius=14&hide_border=true)](https://github.com/Shiva1023)
 
 🔥 My Contribution Streak:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shiva1023&theme=radical)](https://github.com/Shiva1023)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shiva1023&theme=radical&hide_border=true&border_radius=14&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=525)](https://git.io/streak-stats)
 
 
 ---
@@ -89,10 +90,10 @@ I'm **Shiva Sareddy**, a Python enthusiast on a mission to revolutionize the web
 
 ### 🤝 Let's Connect & Collaborate!
 
-   <a href="https://www.youtube.com/@shiva.sareddy"><img style="margin-right: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/youtube.svg" height="40"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/Shiva.sareddy"><img style="margin-right: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/instagram.svg" height="40"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shiva-sareddy"><img style="margin-right: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/linkedin.svg" height="40"></a>&nbsp;&nbsp;
-<a href="mailto:shivapullareddy4931@gmail.com"><img style="margin-right: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/gmail.svg" height="40"></a>
+   <a href="https://www.youtube.com/@shiva.sareddy"><img style="margin: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/youtube.svg" height="40"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/Shiva.sareddy"><img style="margin: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/instagram.svg" height="40"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shiva-sareddy"><img style="margin: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/linkedin.svg" height="40"></a>&nbsp;&nbsp;
+<a href="mailto:shivapullareddy4931@gmail.com"><img style="margin: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/gmail.svg" height="40"></a>
 
 
 
