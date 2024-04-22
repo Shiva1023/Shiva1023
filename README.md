@@ -27,7 +27,7 @@ Here, I am Shiva Sareddy a Passionate Front-End Web Developer From India. I am C
 
 **Programming Skills:** Python, C++
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="30px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="30px" /> 
 
 **Data Bases:** SQL
 
